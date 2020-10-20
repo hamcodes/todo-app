@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hamcodes/todo-app/static/css/main.0e6108ec.chunk.css",
+    "main.js": "/hamcodes/todo-app/static/js/main.6ddd6a21.chunk.js",
+    "main.js.map": "/hamcodes/todo-app/static/js/main.6ddd6a21.chunk.js.map",
+    "runtime-main.js": "/hamcodes/todo-app/static/js/runtime-main.16856fcb.js",
+    "runtime-main.js.map": "/hamcodes/todo-app/static/js/runtime-main.16856fcb.js.map",
+    "static/js/2.1fc706e1.chunk.js": "/hamcodes/todo-app/static/js/2.1fc706e1.chunk.js",
+    "static/js/2.1fc706e1.chunk.js.map": "/hamcodes/todo-app/static/js/2.1fc706e1.chunk.js.map",
+    "index.html": "/hamcodes/todo-app/index.html",
+    "precache-manifest.7d834d2f1c27af0e2d02799c152fab9d.js": "/hamcodes/todo-app/precache-manifest.7d834d2f1c27af0e2d02799c152fab9d.js",
+    "service-worker.js": "/hamcodes/todo-app/service-worker.js",
+    "static/css/main.0e6108ec.chunk.css.map": "/hamcodes/todo-app/static/css/main.0e6108ec.chunk.css.map",
+    "static/js/2.1fc706e1.chunk.js.LICENSE.txt": "/hamcodes/todo-app/static/js/2.1fc706e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16856fcb.js",
+    "static/js/2.1fc706e1.chunk.js",
+    "static/css/main.0e6108ec.chunk.css",
+    "static/js/main.6ddd6a21.chunk.js"
+  ]
+}
